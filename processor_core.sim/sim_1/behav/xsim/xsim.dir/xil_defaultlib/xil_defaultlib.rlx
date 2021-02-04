@@ -1,0 +1,19 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+F:/Vivado projects/processor_core/processor_core.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sim_1/new/ins_mem_tb.sv,1611044267,systemVerilog,,,,ins_mem_tb,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sim_1/new/main_tb.sv,1611822611,systemVerilog,,,,main_tb,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sim_1/new/reg_file_tb.sv,1611165293,systemVerilog,,,,reg_file_tb,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sim_1/new/top_tb.sv,1611164285,systemVerilog,,,,top_tb,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sim_1/new/topcore_tb.sv,1611728589,systemVerilog,,,,topcore_tb,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/alu.sv,1611494662,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/control_unit.sv,,alu,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/control_tb.sv,1611727803,systemVerilog,,,,control_tb,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/control_unit.sv,1612259755,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/data_mem.sv,,control_unit,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/data_mem.sv,1611740041,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/ins_mem.sv,,data_mem,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/ins_mem.sv,1612255414,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/pc.sv,,ins_mem,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/pc.sv,1612345981,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/reg_file.sv,,pc,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/reg_file.sv,1612346182,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/top_core.sv,,reg_file,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/top.sv,1610954842,systemVerilog,,,,top,,,,,,,,
+F:/Vivado projects/processor_core/processor_core.srcs/sources_1/new/top_core.sv,1612346697,systemVerilog,,F:/Vivado projects/processor_core/processor_core.srcs/sim_1/new/main_tb.sv,,top_core,,,,,,,,

@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../processor_core.srcs/sources_1/new/alu.sv" \
+"../../../../processor_core.srcs/sources_1/new/control_unit.sv" \
+"../../../../processor_core.srcs/sources_1/new/data_mem.sv" \
+"../../../../processor_core.srcs/sources_1/new/ins_mem.sv" \
+"../../../../processor_core.srcs/sources_1/new/pc.sv" \
+"../../../../processor_core.srcs/sources_1/new/reg_file.sv" \
+"../../../../processor_core.srcs/sources_1/new/top.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

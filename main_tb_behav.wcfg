@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="main_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="main_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="12940001fs"></ZoomEndTime>
+      <Cursor1Time time="5000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="244"></NameColumnWidth>
+      <ValueColumnWidth column_width="153"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/main_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/pc_top/pc_out" type="array">
+      <obj_property name="ElementShortName">pc_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/pc_top/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/ins_memtop/data_o" type="array">
+      <obj_property name="ElementShortName">data_o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs1_address" type="array">
+      <obj_property name="ElementShortName">rs1_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs2_address" type="array">
+      <obj_property name="ElementShortName">rs2_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rd_address" type="array">
+      <obj_property name="ElementShortName">rd_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs1_data" type="array">
+      <obj_property name="ElementShortName">rs1_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs2_data" type="array">
+      <obj_property name="ElementShortName">rs2_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/alutop/alu_out" type="array">
+      <obj_property name="ElementShortName">alu_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/data_memtop/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/ins" type="array">
+      <obj_property name="ElementShortName">ins[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ins[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/rs1" type="array">
+      <obj_property name="ElementShortName">rs1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/rs2" type="array">
+      <obj_property name="ElementShortName">rs2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/rd" type="array">
+      <obj_property name="ElementShortName">rd[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs1_address" type="array">
+      <obj_property name="ElementShortName">rs1_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs1_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs2_address" type="array">
+      <obj_property name="ElementShortName">rs2_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/ins_memtop/addr_i" type="array">
+      <obj_property name="ElementShortName">addr_i[11:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_i[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/ins_memtop/data_o" type="array">
+      <obj_property name="ElementShortName">data_o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_o[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/ins_memtop/read_en" type="logic">
+      <obj_property name="ElementShortName">read_en</obj_property>
+      <obj_property name="ObjectShortName">read_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/alutop/operand_a" type="array">
+      <obj_property name="ElementShortName">operand_a[31:0]</obj_property>
+      <obj_property name="ObjectShortName">operand_a[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/alutop/operand_b" type="array">
+      <obj_property name="ElementShortName">operand_b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">operand_b[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/op_a_sel" type="array">
+      <obj_property name="ElementShortName">op_a_sel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">op_a_sel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/write_en" type="logic">
+      <obj_property name="ElementShortName">write_en</obj_property>
+      <obj_property name="ObjectShortName">write_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rd_data" type="array">
+      <obj_property name="ElementShortName">rd_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rd_address" type="array">
+      <obj_property name="ElementShortName">rd_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/rs2" type="array">
+      <obj_property name="ElementShortName">rs2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/control_unittop/op_b_sel" type="logic">
+      <obj_property name="ElementShortName">op_b_sel</obj_property>
+      <obj_property name="ObjectShortName">op_b_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rs2_data" type="array">
+      <obj_property name="ElementShortName">rs2_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rs2_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/write_en" type="logic">
+      <obj_property name="ElementShortName">write_en</obj_property>
+      <obj_property name="ObjectShortName">write_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rd_address" type="array">
+      <obj_property name="ElementShortName">rd_address[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_address[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/main_tb/top_core1/reg_filetop/rd_data" type="array">
+      <obj_property name="ElementShortName">rd_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data[31:0]</obj_property>
+   </wvobject>
+</wave_config>
